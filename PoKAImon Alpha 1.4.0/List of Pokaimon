@@ -1,0 +1,47 @@
+001 - Pikaichu
+	200 HP, 30 Attack, 30 Defence
+	YELLOW
+	Shove: 				20 Attack Damage
+	Shock: 				30 Special Damage
+	Defend: 				+5 Defence Stat
+002 - Qwaymander
+	200 HP, 30 Attack, 30 Defence
+	ORANGE
+	Bite: 				20 Attack Damage
+	Burn:				30 Special Damage
+	Strengthen: 			+5 Attack Stat
+003 - Sguortle
+	250 HP, 45 Attack, 15 Defence
+	BLUE
+	Slam: 				15 Attack Damage
+	Squirt: 				25 Special Damage
+	Belly Drum: 			+15 Attack Stat
+004 - Riceworker
+	250 HP, 30 Attack, 30 Defence
+	GREEN
+	Push: 				20 Attack Damage
+	Poison: 				15 Special Damage
+	Protect:				+15 Defence Stat
+005 - Connerpie
+	200 HP, 30 Attack, 30 Defence
+	MAGENTA
+	Nibble: 				35 Attack Damage
+	Grow: 				+15 Attack Stat
+	Thicccen: 			+30 Defence Stat
+006 - Mewerkerk
+	500 HP, 60 Attack, 100 Defence
+	PINK
+	Smite: 				75 Attack Damage
+	"Teach": 			100 Special Damage
+	Switch to VB: 		+100 Attack Stat
+	
+PROTOTYPES:
+
+Pikaichu -> Raichoi
+Qwaymander -> Qwaymeleon -> Qwayizard
+Sguortle -> Sguortoise -> Big Daddy G
+Riceworker -> Riceleader
+Connerpie -> Connerpod -> Butterfransoo
+Mewerkerk -> Mewtwowerkerk
+
+Tylarva -> Tykuna -> Rosendrill
